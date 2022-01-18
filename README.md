@@ -26,6 +26,7 @@ Other: NPM
 In this page, users are able to select the animal that they want to view. Once this happens, an API request is sent to the server to retrieve just animals of that type, where the data for those animals are sent back and displayed. A pop up is also offered to view more information about a certain animal.
 ![Animal1](https://user-images.githubusercontent.com/69808907/149991453-2e4b2b1c-5009-4c21-bbd0-c3e789e23e7f.png)
 ![Animal2](https://user-images.githubusercontent.com/69808907/149991454-a163458e-5cd9-4c84-9321-7824af29208d.png)
+Descriptions for the animals were generated [here](https://www.rangen.co.uk/world/petgen.php)
 
 #### Request Page
 Here, users are able to submit a request for a certain animal currently in the shelter. When this happens, a HTTP request will be sent to the server to mark the animal as "Adopted" in the database, no longer showing it in the animal display.
