@@ -1,0 +1,14 @@
+p {
+    text-align: center;
+    font-size: large;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+.motto {
+    text-align: center;
+    font-size: x-large;
+}

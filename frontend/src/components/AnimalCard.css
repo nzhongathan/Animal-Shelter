@@ -1,0 +1,15 @@
+h5 {
+    font-weight: normal;
+}
+.container {
+    width: 80%
+}
+.table {
+    align-items: center;
+}
+td {
+    font-size: large;
+}
+#tdTitle{
+    font-weight:bold
+}

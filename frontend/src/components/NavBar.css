@@ -1,0 +1,13 @@
+body {
+    width: 100%;
+}
+ul {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#navbar {
+    padding-left: 50px;
+}
+#items {
+    padding-left: 25px;
+}
